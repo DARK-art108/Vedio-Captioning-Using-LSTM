@@ -36,7 +36,7 @@ This project is build on the <a href="https://drive.google.com/file/d/0B18IKlS3n
 It contains 1450 training videos and 100 testing videos.
 
 <h2 id="Setup">Setup</h2>
-Clone the repository : <code>git clone https://github.com/Shreyz-max/Video-Captioning.git</code>
+Clone the repository : <code>git clone https://github.com/DARK-art108/Vedio-Captioning-Using-LSTM.git</code>
 
 Video Caption Generator: <code>cd Video-Captioning</code>
 
