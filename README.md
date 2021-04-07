@@ -38,7 +38,7 @@ It contains 1450 training videos and 100 testing videos.
 <h2 id="Setup">Setup</h2>
 Clone the repository : <code>git clone https://github.com/DARK-art108/Vedio-Captioning-Using-LSTM.git</code>
 
-Video Caption Generator: <code>cd Video-Captioning</code>
+Video Caption Generator: <code>cd Video-Captioning-Using-LSTM</code>
 
 Create environment: <code>conda create -n video_caption python=3.7</code>
 
